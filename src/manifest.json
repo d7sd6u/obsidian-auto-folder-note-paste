@@ -1,0 +1,11 @@
+{
+	"id": "auto-folder-note-paste",
+	"name": "Auto Create Folder Note",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Automagically make the note a folder note on an attachment paste or drag'n'drop",
+	"author": "d7sd6u",
+	"authorUrl": "https://github.com/d7sd6u",
+	"fundingUrl": "https://ko-fi.com/d7sd6u",
+	"isDesktopOnly": false
+}

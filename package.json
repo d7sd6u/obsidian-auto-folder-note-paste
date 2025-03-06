@@ -1,7 +1,7 @@
 {
 	"name": "auto-folder-note-paste",
-	"version": "0.0.1",
-	"description": "",
+	"version": "1.0.0",
+	"description": "Automagically make the note a folder note on an attachment paste or drag'n'drop",
 	"main": "./src/main.ts",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
@@ -14,7 +14,7 @@
 		"format:check": "prettier --check ."
 	},
 	"keywords": [],
-	"author": "",
+	"author": "d7sd6u",
 	"license": "LGPL-3.0-or-later",
 	"devDependencies": {
 		"@eslint/js": "^9.20.0",

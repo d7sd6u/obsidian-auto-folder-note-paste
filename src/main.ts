@@ -2,7 +2,7 @@ import { Vault } from "obsidian";
 import { forceFolder } from "../obsidian-reusables/src/indexFiles";
 import PluginWithSettings from "../obsidian-reusables/src/PluginWithSettings";
 
-export default class Main extends PluginWithSettings({}) {
+export default class AutoFolderNotePaste extends PluginWithSettings({}) {
 	override onload() {
 		this.registerPatch(Vault.prototype, {
 			getAvailablePathForAttachments(next, plugin) {

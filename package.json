@@ -1,6 +1,6 @@
 {
 	"name": "auto-folder-note-on-paste",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Automagically make the note a folder note on an attachment paste or drag'n'drop",
 	"main": "./src/main.ts",
 	"scripts": {
